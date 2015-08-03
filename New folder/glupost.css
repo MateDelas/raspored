@@ -1,0 +1,7 @@
+html, body{height:100%;}
+
+body {
+background: url(img/naslovna.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+}

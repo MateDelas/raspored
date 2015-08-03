@@ -1,0 +1,26 @@
+body {
+ background-image: url(img/naslovna.jpg);
+background-repeat: no-repeat;
+background-position: center center;
+background-attachment: fixed;
+background-size: cover;
+}
+.fancy.button {
+  color: transparent;
+  font-size: 3rem;
+  letter-spacing: 5px;
+  border: 4px solid transparent;
+  border-image: linear-gradient(45deg, pink, skyblue);
+  border-image-slice: 1;
+  background: linear-gradient(45deg, pink, skyblue);
+  -webkit-background-clip: text;
+  text-fill-color: transparent;
+  transition: all 0.2s ease;
+   position:relative;
+    transition: .5s ease;
+    top: 591px;
+    left: 530px;
+    right: -470px;
+    bottom: 5191px;
+}
+  
